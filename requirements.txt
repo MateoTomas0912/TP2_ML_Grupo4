@@ -1,0 +1,7 @@
+os-sys==0.1.1               # Para importar 'os'
+collections-extended==1.0.3 # Para importar 'collections'
+Pillow==9.3.0               # Para 'PIL.Image'
+matplotlib==3.6.2           # Para 'matplotlib.pyplot'
+numpy==1.23.4               # Para 'numpy'
+tensorflow==2.10.0          # Para 'tensorflow' y 'tensorflow.keras'
+seaborn==0.12.1             # Para 'seaborn'
